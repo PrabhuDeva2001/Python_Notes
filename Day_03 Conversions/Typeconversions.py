@@ -25,3 +25,17 @@ d=True
 print(int(d))
 print(bool(d))
 print(str(d))
+print(complex(d))
+
+#bool
+e=True
+print(int(a))
+print(bool(e))
+print(str(e))
+print(float(e))
+
+
+n=15
+print(hex(n))
+print(oct(n))
+print(bin(n))
